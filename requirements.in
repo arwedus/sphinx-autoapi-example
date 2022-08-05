@@ -1,0 +1,10 @@
+# requirements to build the example
+Sphinx>=5.0.2
+sphinxcontrib-inlinesyntaxhighlight
+sphinxcontrib-jsmath
+sphinx-copybutton
+sphinxcontrib-needs
+sphinx-autoapi
+
+# development dependencies
+pip-tools
